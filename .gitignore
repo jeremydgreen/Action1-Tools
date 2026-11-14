@@ -1,0 +1,12 @@
+# Private sanitization notes. Never publish these.
+SANITIZATION-REPORT.md
+**/SANITIZATION-REPORT.md
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+logs/
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
