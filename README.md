@@ -11,6 +11,9 @@ Tools are being added one at a time. Each one gets its own folder with the scrip
 | Tool | What it does |
 | --- | --- |
 | [Remote Session Badge](RemoteSessionBadge/) | Lets users know when an IT tech can see their screen. Shows an on-screen badge with a timer while an Action1 remote desktop session is connected. |
+| [Desktop Info](DesktopInfo/) | A BGInfo replacement. Draws the location, host name, user name and a data loss notice on each user's wallpaper and on the lock screen, using scheduled tasks with no agent or service. Works with your own images or the Windows defaults. |
+
+More tools for Windows admins, not tied to any one RMM, are in [IT-Tech-Tools](https://github.com/jeremydgreen/IT-Tech-Tools).
 
 ## Using these scripts
 
